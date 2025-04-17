@@ -1,9 +1,5 @@
- #string comparison
-<h1 align="center">Hi 👋, I'm Kaif Ansari</h1>
+ <h1 align="center">Hi 👋, I'm Kaif Ansari</h1>
 <h3 align="center">A passionate engineer from India, shaping the future with data-driven insights.</h3>
-
-<img align="right" alt="coding" width="400"src="![image](https://github.com/user-attachments/assets/cc06acb5-0be9-4b04-b8f0-99b2d2827f7e)
-">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaifansari27&label=Profile%20views&color=0e75b6&style=flat" alt="kaifansari27" /> </p>
 
@@ -20,7 +16,7 @@
 <a href="https://twitter.com/kaif_ansari_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaif_ansari_27" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kaif ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaif ansari" height="30" width="40" /></a>
 <a href="https://fb.com/mohmmad kaif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohmmad kaif" height="30" width="40" /></a>
-<a href="https://instagram.com/kaifyyy27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaifyyy27" height="30" width="40" /></a>
+<a href="https://instagram.com/_kaifyyy27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kaifyyy27" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kaif_ansari0327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kaif_ansari0327" height="30" width="40" /></a>
 </p>
 
